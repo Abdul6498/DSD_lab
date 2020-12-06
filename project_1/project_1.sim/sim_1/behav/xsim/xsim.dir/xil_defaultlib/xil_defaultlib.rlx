@@ -1,0 +1,9 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+E:/INFOTECH/First Semester/Digital system design/Xilinx/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+E:/INFOTECH/First Semester/Digital system design/Xilinx/project_1/project_1.srcs/sim_1/imports/Sources/bft_tb.v,1590623669,verilog,,,,bft_tb,,,,,,,,
+E:/INFOTECH/First Semester/Digital system design/Xilinx/project_1/project_1.srcs/sources_1/imports/Sources/FifoBuffer.v,1590623666,verilog,,E:/INFOTECH/First Semester/Digital system design/Xilinx/project_1/project_1.srcs/sources_1/imports/Sources/async_fifo.v,,FifoBuffer,,,,,,,,
+E:/INFOTECH/First Semester/Digital system design/Xilinx/project_1/project_1.srcs/sources_1/imports/Sources/async_fifo.v,1590623668,verilog,,E:/INFOTECH/First Semester/Digital system design/Xilinx/project_1/project_1.srcs/sim_1/imports/Sources/bft_tb.v,,async_fifo,,,,,,,,
+E:/INFOTECH/First Semester/Digital system design/Xilinx/project_1/project_1.srcs/sources_1/imports/Sources/bft.vhdl,1590623666,vhdl,,,,bft,,,,,,,,

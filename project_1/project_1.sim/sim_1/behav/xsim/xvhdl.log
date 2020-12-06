@@ -1,0 +1,13 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/INFOTECH/First Semester/Digital system design/Xilinx/project_1/project_1.srcs/sources_1/imports/Sources/bftLib/bft_package.vhdl" into library bftLib
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/INFOTECH/First Semester/Digital system design/Xilinx/project_1/project_1.srcs/sources_1/imports/Sources/bftLib/core_transform.vhdl" into library bftLib
+INFO: [VRFC 10-3107] analyzing entity 'coreTransform'
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/INFOTECH/First Semester/Digital system design/Xilinx/project_1/project_1.srcs/sources_1/imports/Sources/bftLib/round_1.vhdl" into library bftLib
+INFO: [VRFC 10-3107] analyzing entity 'round_1'
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/INFOTECH/First Semester/Digital system design/Xilinx/project_1/project_1.srcs/sources_1/imports/Sources/bftLib/round_2.vhdl" into library bftLib
+INFO: [VRFC 10-3107] analyzing entity 'round_2'
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/INFOTECH/First Semester/Digital system design/Xilinx/project_1/project_1.srcs/sources_1/imports/Sources/bftLib/round_3.vhdl" into library bftLib
+INFO: [VRFC 10-3107] analyzing entity 'round_3'
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/INFOTECH/First Semester/Digital system design/Xilinx/project_1/project_1.srcs/sources_1/imports/Sources/bftLib/round_4.vhdl" into library bftLib
+INFO: [VRFC 10-3107] analyzing entity 'round_4'
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/INFOTECH/First Semester/Digital system design/Xilinx/project_1/project_1.srcs/sources_1/imports/Sources/bft.vhdl" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'bft'
