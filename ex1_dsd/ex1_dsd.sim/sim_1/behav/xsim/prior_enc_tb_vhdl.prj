@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../ex1_dsd.srcs/sources_1/imports/srcs/prior_enc.vhd" \
+"../../../../ex1_dsd.srcs/sim_1/new/prior_enc_tb.vhd" \
+
+# Do not sort compile order
+nosort

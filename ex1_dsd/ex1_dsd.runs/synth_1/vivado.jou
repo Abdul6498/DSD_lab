@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Thu Nov 12 18:22:40 2020
+# Process ID: 8348
+# Current directory: E:/INFOTECH/First Semester/Digital system design/Xilinx/ex1_dsd/ex1_dsd.runs/synth_1
+# Command line: vivado.exe -log prior_enc.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source prior_enc.tcl
+# Log file: E:/INFOTECH/First Semester/Digital system design/Xilinx/ex1_dsd/ex1_dsd.runs/synth_1/prior_enc.vds
+# Journal file: E:/INFOTECH/First Semester/Digital system design/Xilinx/ex1_dsd/ex1_dsd.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source prior_enc.tcl -notrace

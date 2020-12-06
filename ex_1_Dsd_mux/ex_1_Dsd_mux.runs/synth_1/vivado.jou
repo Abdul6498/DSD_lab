@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Wed Nov 18 16:11:48 2020
+# Process ID: 19532
+# Current directory: E:/INFOTECH/First Semester/Digital system design/Xilinx/ex_1_Dsd_mux/ex_1_Dsd_mux.runs/synth_1
+# Command line: vivado.exe -log comp_mux.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source comp_mux.tcl
+# Log file: E:/INFOTECH/First Semester/Digital system design/Xilinx/ex_1_Dsd_mux/ex_1_Dsd_mux.runs/synth_1/comp_mux.vds
+# Journal file: E:/INFOTECH/First Semester/Digital system design/Xilinx/ex_1_Dsd_mux/ex_1_Dsd_mux.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source comp_mux.tcl -notrace
