@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/INFOTECH/First Semester/Digital system design/Xilinx/AND_gate/AND_gate.srcs/sources_1/new/AND_Gate.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'AND_Gate'
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/INFOTECH/First Semester/Digital system design/Xilinx/AND_gate/AND_gate.srcs/sim_1/new/AND_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'AND_Gate_tb'
