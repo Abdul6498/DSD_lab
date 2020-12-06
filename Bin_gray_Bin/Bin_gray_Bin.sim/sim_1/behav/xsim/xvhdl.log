@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/INFOTECH/First Semester/Digital system design/Xilinx/Bin_gray_Bin/Bin_gray_Bin.srcs/sources_1/new/Bin_gray_bin.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Bin_gray_bin'
+INFO: [VRFC 10-163] Analyzing VHDL file "E:/INFOTECH/First Semester/Digital system design/Xilinx/Bin_gray_Bin/Bin_gray_Bin.srcs/sim_1/new/sim_bin_gray_bin.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Bin_gray_bin_tb'
